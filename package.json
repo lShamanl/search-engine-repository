@@ -1,0 +1,11 @@
+{
+  "name": "search-engine-repository",
+  "version": "1.0.0",
+  "description": "Easy search engine and repository",
+  "main": "Repository.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lshamanl",
+  "license": "ISC"
+}
